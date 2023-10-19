@@ -1,5 +1,3 @@
-# Mabel's Portfolio
-
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Tools](#tools)
