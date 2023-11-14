@@ -20,7 +20,7 @@ I'm Mabel, an aspiring Software/Hardware QA Engineer, based in the San Francisco
   - Tools used: Supabase, React.js
   - Tools used for testing: JUnit, Selenium
   - [Test Plan](https://docs.google.com/spreadsheets/d/14A78SC3P_wehpYxjX0zUXgEOlh7ZEwzh8ahoZmUkGC4/edit?usp=sharing)
-  - [Test Cases] (https://github.com/book-end/TIL-App-Tests)
+  - [Test Cases](https://github.com/book-end/TIL-App-Tests)
 
 - Wearable Fitness Tracker
   - A wearable device developed from scratch implemented in Python
