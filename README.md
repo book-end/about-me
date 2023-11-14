@@ -22,7 +22,7 @@ I'm Mabel, a Freelance Software Tester at uTest, based in the San Francisco Bay 
   - [Test Cases](https://github.com/book-end/TIL-App-Tests)
 
 - Wearable Fitness Tracker
-  - A wearable device developed from scratch implemented in Python
+  - A wearable device developed from scratch, implemented in Python
   - Equipped with Raspberry Pi Zero, heart rate sensor, battery, and OLED screen housed in a 3D printed chassis
   - Documented progress in a technical report
 
