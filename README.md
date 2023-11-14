@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm Mabel, an aspiring QA Engineer, based in the San Francisco Bay Area. I'm a recent graduate from UC Irvine with a Bachelor's in Computer Science & Engineering with skills in test automation.
+I'm Mabel, an aspiring QA Engineer, based in the San Francisco Bay Area. I'm a recent graduate from UC Irvine with a Bachelor's in Computer Science & Engineering with skills and experience in manual and automated testing.
 
 
 ## Projects
