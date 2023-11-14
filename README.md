@@ -6,8 +6,7 @@
 
 ## About Me
 
-I'm Mabel, an aspiring Software/Hardware QA Engineer, based in the San Francisco Bay Area. I'm a recent graduate from UC Irvine with a Bachelor's in Computer Science & Engineering with skills and experience in manual and automated testing. Currently as a Freelance Software Tester at uTest, I have learned 
-
+I'm Mabel, a Freelance Software Tester at uTest, based in the San Francisco Bay Area. I'm a recent graduate from UC Irvine with a Bachelor's in Computer Science & Engineering with skills and experience in manual and automated testing. I welcome all opportunities where I can apply my testing knowledge and work with other passionate professionals.
 
 ## Projects
 
