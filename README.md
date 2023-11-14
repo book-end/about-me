@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm Mabel, an aspiring QA Engineer, based in the San Francisco Bay Area. I'm a recent graduate from UC Irvine with a Bachelor's in Computer Science & Engineering with skills and experience in manual and automated testing.
+I'm Mabel, an aspiring Software/Hardware QA Engineer, based in the San Francisco Bay Area. I'm a recent graduate from UC Irvine with a Bachelor's in Computer Science & Engineering with skills and experience in manual and automated testing. Currently as a Freelance Software Tester at uTest, I have learned 
 
 
 ## Projects
@@ -14,11 +14,13 @@ I'm Mabel, an aspiring QA Engineer, based in the San Francisco Bay Area. I'm a r
 - Travel Site Testing 
 
 - [Today I Learned](https://til-jade.vercel.app/) (Development/Testing)
-  - A web platform for users to post facts and react to users' posts
-  - Implemented in JavaScript, HTML, CSS
+  - A full stack content submussion web application
+  - Features category filtering, post submission, user react buttons
+  - Languages used: JavaScript, HTML, CSS
   - Tools used: Supabase, React.js
-  - Tools used for testing: JUnit, Selenium Webdriver
-  - [Test Cases](https://docs.google.com/spreadsheets/d/14A78SC3P_wehpYxjX0zUXgEOlh7ZEwzh8ahoZmUkGC4/edit?usp=sharing)
+  - Tools used for testing: JUnit, Selenium
+  - [Test Plan](https://docs.google.com/spreadsheets/d/14A78SC3P_wehpYxjX0zUXgEOlh7ZEwzh8ahoZmUkGC4/edit?usp=sharing)
+  - [Test Cases] (https://github.com/book-end/TIL-App-Tests)
 
 - Wearable Fitness Tracker
   - A wearable device developed from scratch implemented in Python
@@ -29,7 +31,8 @@ I'm Mabel, an aspiring QA Engineer, based in the San Francisco Bay Area. I'm a r
 
 - Languages:
   - Java, Python, C/C++
-  - JavaScript, HTML, CSS
+  - JavaScript, HTML/CSS
+  - Verilog
 - Frameworks/Libraries:
   - Selenium
   - Pytest
@@ -38,6 +41,8 @@ I'm Mabel, an aspiring QA Engineer, based in the San Francisco Bay Area. I'm a r
 - Jira
 - Trello
 - Git
+- Vivado
+- Digital multimeter
 
 ## Current Activities
 
