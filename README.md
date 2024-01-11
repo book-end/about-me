@@ -11,6 +11,7 @@ I'm Mabel, a Freelance Software Tester at uTest, based in the San Francisco Bay 
 ## Projects
 
 - Travel Site Testing
+  - [Test Plan](https://docs.google.com/spreadsheets/d/1aq3yP_X55CMFUNFW7IOIvj8q4dE8_i0kG2CVBuUBgYU/edit?usp=sharing)  
   - [Test Cases](https://github.com/book-end/travel-site-testing) 
 
 - [Today I Learned](https://til-jade.vercel.app/) (Development/Testing)
